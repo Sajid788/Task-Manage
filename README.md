@@ -17,8 +17,8 @@ A full-stack task management application with admin and user roles, built with t
 
 ```
 task-management-app/
-├── frontend/               # React frontend
-└── backend/               # Express backend
+├── frontend/             # React frontend
+└── backend/              # Express backend
     ├── config/           # Server configuration
     │   └── db.js         # Database connection
     ├── controllers/      # API controllers
@@ -118,3 +118,12 @@ When you seed the database, the following users are created:
 - User: sajid@gmail.com / user123
 - User: user@gmail.com / user123
 - User: mike@example.com / user123 
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/539a0335-4a6e-45c3-a9ab-21884b3426aa)
+![image](https://github.com/user-attachments/assets/f18344fb-2945-412e-92cf-f146291232f4)
+![image](https://github.com/user-attachments/assets/860057b0-7f63-4920-b6d9-bc06dd426991)
+![image](https://github.com/user-attachments/assets/c228aada-52a6-4c5e-9ca4-fcd3e15fd939)
+![image](https://github.com/user-attachments/assets/46d9b11d-7a86-4726-8942-63bf7a828a02)
+![image](https://github.com/user-attachments/assets/150095e7-e6d1-4772-8cb0-3719cef04be5)
+![image](https://github.com/user-attachments/assets/40de70c6-a7c6-4d51-a69f-245d1d1c7101)
