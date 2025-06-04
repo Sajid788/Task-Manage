@@ -17,8 +17,8 @@ A full-stack task management application with admin and user roles, built with t
 
 ```
 task-management-app/
-├── client/               # React frontend
-└── server/               # Express backend
+├── frontend/               # React frontend
+└── backend/               # Express backend
     ├── config/           # Server configuration
     │   └── db.js         # Database connection
     ├── controllers/      # API controllers
