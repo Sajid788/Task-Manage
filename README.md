@@ -77,7 +77,7 @@ task-management-app/
 
 1. Navigate to the client directory:
    ```
-   cd task-management-app/client
+   cd task-management-app/frontend
    ```
 
 2. Install dependencies:
