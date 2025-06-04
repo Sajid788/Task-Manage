@@ -52,7 +52,7 @@ task-management-app/
 
 1. Navigate to the server directory:
    ```
-   cd task-management-app/server
+   cd task-management-app/backend
    ```
 
 2. Install dependencies:
